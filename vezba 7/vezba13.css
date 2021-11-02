@@ -1,0 +1,24 @@
+div {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.levi {
+  background-color: grey;
+  position: relative;
+  top: 70px;
+  left: 80px;
+  z-index: -1;
+}
+
+.desni {
+  background-color: red;
+}
+
+.treci {
+  background-color: yellow;
+  position: relative;
+  top: 180px;
+  left: -250px;
+  z-index: 2;
+}

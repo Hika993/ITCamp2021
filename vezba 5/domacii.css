@@ -1,0 +1,50 @@
+.glavni {
+  border: 1px solid grey;
+  width: 378px;
+  height: 450px;
+  margin: 30px;
+}
+.prvi {
+  background-color: rgb(214, 213, 213);
+  color: rgb(196, 192, 192);
+  padding: 0px;
+  height: 40%;
+  width: 100%;
+}
+.tekst1 {
+  font-size: 40px;
+  text-align: center;
+  padding: 60px;
+  margin-top: 0px;
+  color: rgb(87, 84, 84);
+}
+
+.tekst {
+  text-align: justify;
+  color: grey;
+  margin: 10px;
+}
+h1 {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+  font-size: 24px;
+}
+h4 {
+  color: rgb(170, 170, 170);
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 45%;
+  color: purple;
+}
+.mojaklasa1,
+.mojaklasaa {
+  font-size: 20px;
+  color: grey;
+  float: right;
+  margin-right: 20px;
+}

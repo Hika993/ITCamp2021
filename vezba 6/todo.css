@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(159, 159, 219);
+}
+div {
+  background-color: white;
+  width: 350px;
+  height: 450px;
+  margin: 30px;
+  border: 0px solid blue;
+}
+
+h1 {
+  background-color: rgb(108, 108, 231);
+  margin-top: 0px;
+  color: white;
+  padding: 20px;
+}
+
+.siva {
+  color: grey;
+  text-decoration: line-through;
+  border-bottom: grey 1px solid;
+}
+.crna {
+  color: black;
+  border-bottom: grey 1px solid;
+}
+
+.razmak {
+  padding: 10px 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}

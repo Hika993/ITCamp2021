@@ -1,0 +1,25 @@
+div {
+  border: 1px solid black;
+  display: inline-block;
+  width: 150px;
+  height: 400px;
+  padding: 20px;
+}
+
+.jedan {
+  position: absolute;
+}
+.dva {
+  position: absolute;
+  left: 250px;
+}
+
+.tri {
+  position: absolute;
+  left: 500px;
+}
+
+.cetiri {
+  position: absolute;
+  left: 750px;
+}

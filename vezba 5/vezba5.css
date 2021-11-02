@@ -1,0 +1,23 @@
+.glavni {
+  background-color: rgb(202, 198, 198);
+  border-radius: 4px;
+  border: none;
+  padding: 10px 25px 10px 30px;
+  margin: 40px;
+}
+h1 {
+  font-family: "Zen Kurenaido", sans-serif;
+}
+.sporedni {
+  background-color: white;
+  border-left: 5px green solid;
+  padding: 10px;
+}
+
+button {
+  background-color: green;
+  font-size: 30px;
+  margin-left: 0px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}

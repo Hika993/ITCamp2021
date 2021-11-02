@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: grey;
+}
+
+div {
+  border: 0px solid red;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(226, 49, 49);
+}
+h1 {
+  font-size: 20px;
+  margin-left: 40px;
+}
+
+a:hover {
+  color: black;
+  font-weight: bold;
+}
