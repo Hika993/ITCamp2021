@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(139, 139, 214);
+}
+
+table {
+  border: 1px solid black;
+  border-radius: 4px;
+  border-collapse: collapse;
+  height: 70%;
+  margin: 200px 300px;
+}
+
+th {
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+
+td {
+  background-color: white;
+  padding: 15px;
+}
