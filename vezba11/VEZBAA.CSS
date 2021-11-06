@@ -1,0 +1,42 @@
+.glavni {
+  margin: auto;
+  width: 900px;
+  height: 500px;
+}
+form {
+  width: 80%;
+  margin: auto;
+}
+label {
+  padding: 10px;
+}
+.prvi,
+.drugi {
+  width: 40%;
+  padding: 10px;
+  display: inline-block;
+}
+
+.drugi {
+  float: right;
+}
+
+.treci {
+  width: 100%;
+}
+h1,
+p {
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+textarea {
+  width: 100%;
+}
+
+button {
+  margin: auto;
+  display: block;
+}
