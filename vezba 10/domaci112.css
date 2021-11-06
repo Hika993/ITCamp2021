@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(139, 139, 214);
+  background-color: rgb(99, 99, 197);
 }
 
 table {
@@ -8,15 +8,21 @@ table {
   border-collapse: collapse;
   height: 70%;
   margin: 200px 300px;
+  background-color: white;
 }
 
 th {
   background-color: black;
   color: white;
   padding: 15px;
+  text-align: center;
 }
 
 td {
-  background-color: white;
   padding: 15px;
+  text-align: center;
+}
+
+.senka {
+  background-color: rgb(105, 104, 104);
 }
