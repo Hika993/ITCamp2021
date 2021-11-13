@@ -1,0 +1,49 @@
+.prvi {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  animation: mojaanimacija;
+  animation-duration: 8s;
+  animation-delay: 1s;
+  margin: 10rem;
+  animation-iteration-count: infinite;
+  position: absolute;
+}
+
+.drugi {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  animation: mojaanimacija;
+  animation-duration: 8s;
+  animation-delay: 1s;
+  margin: 10rem;
+  animation-timing-function: ease-in-out;
+}
+@keyframes mojaanimacija {
+  0% {
+    top: 0%;
+    left: 0px;
+  }
+  25% {
+    top: 0px;
+    left: 200px;
+  }
+
+  50% {
+    background-color: blue;
+    top: 200px;
+    left: 200px;
+  }
+  75% {
+    top: 200px;
+    left: 0px;
+  }
+  100% {
+    background-color: red;
+
+    top: 0px;
+    left: 0px;
+  }
+}
