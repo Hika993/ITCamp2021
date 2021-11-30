@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: burlywood;
+  width: 100%;
+  height: 100vh;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    background-color: cyan;
+
+    flex-direction: column;
+  }
+}
