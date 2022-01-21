@@ -64,3 +64,88 @@
 
 // }
 // console.log(fact);
+
+
+
+// unos = prompt ("Unesite string");
+// novi = ""
+// for (i= 0; unos.lenght<1;i++) {
+//     if (i===0) {
+//         novi+=unos[0] . toUpperCase()
+//     } else (
+//         novi +=unos [i+1] . toUpperCase()
+//     )
+// }
+// console.log(novi);
+
+
+// unos = parseInt(prompt("Unesi minute"));
+
+// sati =Math.floor (unos/60)
+// minuti = unos % 60
+// console.log("sati:", sati);
+// console.log("minuti:", minuti);
+
+// console.log(``);
+
+
+// ar = [1 , "HelloWorld" , 3]
+
+// console.log(ar);
+
+// arr = []
+// kolicina = parseInt(prompt("Unesi kolicinu"));
+
+// for ( i = 0; i<kolicina; i++) {
+
+//     el = prompt("Unesite elemet")
+//     arr[i]=el;
+// }
+// console.log(arr);
+
+
+// arr = []
+// kolicina = parseInt(prompt("Unesi kolicinu"));
+
+// for ( i = 0; i<kolicina; i++) {
+
+//     el = prompt("Unesite elemet")
+//     arr[i]=el;
+    
+// }
+// console.log(arr);
+
+// for(i=arr.length-1; i >=0; i--) {
+//     console.log(arr[i]);
+// }
+
+
+
+// arr = []
+// kolicina = parseInt(prompt("Unesi kolicinu"));
+
+// for ( i = 0; i<kolicina; i++) {
+
+//     el = parseInt( prompt("Unesite elemet"))
+//     arr[i]=el;
+// }
+// sum=0;
+
+// for (i=0; i<arr.length; i++) {
+//     sum+= arr[i];
+
+// }
+// console.log(sum);
+
+
+// arr = [2 , 12 , 1, 7, 19, 74, 23, 4, 3];
+// broj=0;
+
+// for (i=0; i<=broj;i++){
+//     if (arr>broj) {
+//         broj=arr[i];
+//     }
+// }
+
+// console.log(broj);
+
