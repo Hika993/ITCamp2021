@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;    
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding-top: 70px;
+    background-image: url(./imm.jpg);
+    background-size: cover;
+}
+.naslov1 {
+    color: cadetblue;
+    font-size: 50px;
+}
+.naslov2 {
+    margin-top: 20px;
+    color: darkblue;
+    font-size: 70px;
+}
