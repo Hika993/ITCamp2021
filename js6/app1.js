@@ -266,10 +266,28 @@
 // zbir(3,5);
 
 
-function mojaF(){
-    console.log("asd");
-    console.log("assd");
-    return [1, 2, 3,];
-}
+// function mojaF(){
+//     console.log("asd");
+//     console.log("assd");
+//     return [1, 2, 3,];
+// }
 
-console.log(mojaF());
+// console.log(mojaF());
+
+
+// function mojaF () {
+//     console.log("a");
+// }
+
+// b = function () {
+//     console.log("b");
+// }
+
+// console.log("b");
+
+// () => {
+//     console.log("c");
+// }
+
+// console.log("c");
+
