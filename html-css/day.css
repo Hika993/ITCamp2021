@@ -1,0 +1,36 @@
+div {
+    border: 1px solid black;
+    position: absolute;
+}
+
+.a {
+    width: 300px;
+    height: 200px;
+background-color: brown;
+left: 200px;
+top: 200px;
+}
+
+.b {
+    width: 230px;
+    height: 320px;
+    background-color: greenyellow;
+    top: 320px;
+    left: 380px;
+}
+
+.c {
+    width: 600px;
+    height: 150px;
+    background-color: blueviolet;
+    top: 500px;
+    left: 220px;
+}
+
+.d {
+    width: 150px;
+    height: 500px;
+    background-color: aqua;
+    top: 100px;
+    left: 700px;
+}
