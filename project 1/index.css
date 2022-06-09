@@ -1,0 +1,78 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.bar {
+    width:100%;
+    height: 10vh;
+    background-color: rgb(10, 10, 32);
+    position: relative;
+}
+
+.nas1 , .nas2 , .nas3 ,.nas4 {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 27px;
+    top: 20px;
+}
+
+.nas1 {
+    left:25px;
+}
+
+.nas2 {
+    right: 500px;
+}
+
+.nas3 {
+    right: 300px;
+}
+
+.nas4 {
+    right: 100px;
+}
+
+.main {
+    width: 100%;
+    height: 50%;
+    
+}
+
+.slika {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    opacity: 1.1;
+}
+
+.glav , .glav2 , .dugme {
+    position: absolute;
+    color: white;
+}
+
+.glav {
+    font-size: 60px;
+    top:30%;
+    left: 35%;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.glav2 {
+    font-size: 30px;
+    top: 45%;
+    left: 23%;
+    text-align: center;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+
+}
+
+.dugme {
+    width: 200px;
+    height: 60px;
+    background-color: rgb(82, 82, 147);
+    border: none;
+    top: 61%;
+    left: 47%;
+    font-size: 20px;
+}
