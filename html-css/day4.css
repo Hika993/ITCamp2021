@@ -28,6 +28,10 @@
 
 }
 p , h2, label , input { padding: 10px;}
+
+input , textarea {
+    border-radius: 3px;
+}
 .forma {
     display: flex;
     flex-direction: column;
