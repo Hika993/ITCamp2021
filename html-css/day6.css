@@ -1,0 +1,35 @@
+table {
+    width: 800px;
+    height: 300px;
+    border-collapse: collapse;
+    
+}
+.left {
+    border-top-left-radius: 20px;
+}
+.right {
+    border-top-right-radius: 20px;
+}
+
+td {
+    text-align: center;
+}
+.one  {
+    font-size: 25px;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    background-color: green;
+}
+
+
+.two {
+    font-size: 20px;
+    color: green;
+    background-color:aquamarine;
+    
+}
+
+.three {
+    border-bottom: 3px solid green;
+}
