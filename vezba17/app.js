@@ -129,3 +129,57 @@
 //     }
 // }
 // console.log(brojRazmaka);
+
+
+// domaci :  iz date recenice izbrisati raymake i ispisati u konzoli novodobijenu recenicu
+
+// arr = [123 , 2 , 321 , 21, 212]
+
+// arr.forEach(element => {
+//     console.log(element);
+// });
+
+// arr = [[1,2,3] ,[] , []]
+
+// console.log(arr[1][1]);
+
+
+// arr = [
+// [1,2,3],
+// [4,5,6],
+// [7,8,9],
+// ];
+
+// console.log(arr[1][2]);
+
+// for (let i = 0; i < 3; i++) {
+//     for (let j=0; j<4; j++){
+//         console.log("bilo sta");
+//     }
+// }
+
+// arr = [
+// [1,2,3],
+// [4,5,6],
+// [72,231,19],
+// ];
+
+
+// for (let i = 0; i < arr.length; i++) {
+//     for (let j = 0; j < arr[i].length; j++) {
+//         console.log(arr[i][j], i , j);
+//     }
+// }
+
+
+arr = [
+    [1,2,3],[4,5,6,4,5,6],[7],
+    ];
+
+sum = 0;
+
+for ( let i = 0; i < arr.length; i++) {
+    sum += arr[i][arr[i].length -1]
+}
+
+console.log(sum);
